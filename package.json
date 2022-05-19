@@ -1,22 +1,22 @@
 {
-  "name": "backend-api-t7",
+  "name": "backend-api-t6",
   "version": "1.0.0",
-  "description": "Projeto de desenvolvimento de API - T7",
+  "description": "Projeto de desenvolvimento de API - T6",
   "main": "loader.js",
   "scripts": {
     "dev": "nodemon",
-    "production": "pm2 start loader.js --name backend-api-t7"
+    "production": "pm2 start loader.js --name backend-api-t6-modelo"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Qa-Coders/backend-api-nodejs-t7.git"
+    "url": "git+https://github.com/Qa-Coders/backend-api-nodejs-t6-modelo.git"
   },
   "author": "William A. da Silva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Qa-Coders/backend-api-nodejs-t7/issues"
+    "url": "https://github.com/Qa-Coders/backend-api-nodejs-t6-modelo/issues"
   },
-  "homepage": "https://github.com/Qa-Coders/backend-api-nodejs-t7#readme",
+  "homepage": "https://github.com/Qa-Coders/backend-api-nodejs-t6-modelo#readme",
   "dependencies": {
     "args-parser": "^1.3.0",
     "body-parser": "^1.20.0",
