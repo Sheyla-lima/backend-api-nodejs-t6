@@ -12,3 +12,6 @@ Instalando as depenedencias do projeto:
 Para executar o projeto:
 * <npm run dev> para executar o projeto apontando para o banco dedados local.
 * <npm start> para exercutar o projeto apontando para o banco de dados de produção.
+
+
+Tentando mandar essa kpta pro 5 dos infernos!!!
